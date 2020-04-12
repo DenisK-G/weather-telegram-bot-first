@@ -1,1 +1,1 @@
-TOKEN = '1225415029:AAFDeV-TJIc-EID_Z304Ts3409aYqzvrqIo' # BotFather
+TOKEN = 'TOKEN' # BotFather
