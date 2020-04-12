@@ -14,7 +14,7 @@ pycparser==2.20
 pyowm==2.10.0
 pyTelegramBotAPI==3.6.7
 python-telegram-bot==12.6.1
-requests==2.7.0
+requests==2.20.0
 six==1.14.0
 soupsieve==2.0
 telebot==0.0.3
