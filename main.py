@@ -2,7 +2,7 @@ import telebot
 import config
 import pyowm
 
-owm = pyowm.OWM('Your Token', language="ru")  # you MUST provide a valid API key
+owm = pyowm.OWM('28a717f1c5551693eef123d9da545025', language="ru")  # you MUST provide a valid API key
 
 bot = telebot.TeleBot(config.TOKEN)
 
